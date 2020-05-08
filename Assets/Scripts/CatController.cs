@@ -31,7 +31,7 @@ public class CatController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            Application.LoadLevel("Title");
+            Application.LoadLevel("MenuUtama");
         }
         if (catHurtTime == -1)
         {
