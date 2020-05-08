@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9626b408d776b1e45b7519f2e44e0d0b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Buttey Honey
+  fontNames:
+  - Buttey Honey
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10852f553a002a145a058d727548a46c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
